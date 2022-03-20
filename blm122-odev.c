@@ -49,7 +49,7 @@ int main(){
 			}
 		}	
 		for(i=0;i<N;i++)
-			printf("%d ",dizi[i]);   //kiþi sýraya baglý olarak para cekebilrise 1 cekemesse 0 yazdýrýr
+			printf("%d ",dizi[i]);   //kisinin sirasina bagli olarak para cekebilirse 1 cekemesse 0 yazdirir
 	}
 
 
